@@ -1,0 +1,40 @@
+.header{
+	min-height: 100px;
+	background-color: red;
+}
+
+.wrapper{
+	overflow: hidden;
+	border: 10px solid teal;
+	
+}
+.blog{
+float: left;
+width: 70%;
+min-height: 150px;
+background-color: green;
+}
+.contact{
+	float: right;
+	width: 30%;
+	min-height: 150px;
+	background-color: blue;
+}
+
+
+.header h2{
+	text-align: center;
+	padding-top:31px;
+}
+
+
+.footer{
+	min-height: 100px;
+	background-color: black;
+	
+}
+
+
+
+
+
